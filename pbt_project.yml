@@ -1,0 +1,13 @@
+name: fsfdsfa
+description: ''
+version: 0.0.1
+author: kiran@prophecy.io
+language: python
+buildSystem: wheel
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+dependencies: '[]'

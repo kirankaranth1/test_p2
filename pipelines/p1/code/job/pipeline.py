@@ -7,7 +7,7 @@ from prophecy.utils import *
 from job.graph import *
 
 def pipeline(spark: SparkSession) -> None:
-    pass
+    Target_0(spark)
 
 def main():
     spark = SparkSession.builder\
